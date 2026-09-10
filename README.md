@@ -1,4 +1,4 @@
-# Inline4Engine
+<img width="686" height="454" alt="image" src="https://github.com/user-attachments/assets/7a58355c-be3c-457a-aca5-d1ce80ffdc87" /># Inline4Engine
 
 A 4-cylinder inline engine, modeled in Onshape.
 
