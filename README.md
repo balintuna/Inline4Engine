@@ -14,7 +14,7 @@ Crankshaft, connecting rod, connecting rod cap, piston, piston pin, and piston r
 
 ## Demo
 
-<!-- Paste the GitHub-generated video link here after dragging EngineRecording.mp4 into the README's web editor -->
+https://github.com/user-attachments/assets/e1f0b7eb-8b9b-4ca7-b590-07ce58366fde
 
 ## Parts
 
