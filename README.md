@@ -1,4 +1,4 @@
-<img width="686" height="454" alt="image" src="https://github.com/user-attachments/assets/7a58355c-be3c-457a-aca5-d1ce80ffdc87" /># Inline4Engine
+# Inline4Engine
 
 A 4-cylinder inline engine, modeled in Onshape.
 
@@ -8,9 +8,13 @@ A 4-cylinder inline engine, modeled in Onshape.
 
 ## Overview
 
-Crankshaft, connecting rod, connecting rod cap, piston, piston pin, and piston ring, and 4 cylinders. Can animate in assembly. 
+Crankshaft, connecting rod, connecting rod cap, piston, piston pin, and piston ring, patterned into 4 cylinders. Fully mated and animates in the assembly.
 
 ![Full 4-cylinder assembly](./media/full-assembly.png)
+
+## Demo
+
+<!-- Paste the GitHub-generated video link here after dragging EngineRecording.mp4 into the README's web editor -->
 
 ## Parts
 
@@ -20,7 +24,3 @@ Crankshaft, connecting rod, connecting rod cap, piston, piston pin, and piston r
 - Piston
 - Piston Pin
 - Piston Ring
-
-(./media/crank-detail.png)
-
-
